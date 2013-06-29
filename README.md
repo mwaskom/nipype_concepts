@@ -11,6 +11,7 @@ Static HTML Links
 
 - [Interfaces](http://nbviewer.ipython.org/urls/raw.github.com/mwaskom/nipype_concepts/master/interfaces.ipynb)
 - [Workflows](http://nbviewer.ipython.org/urls/raw.github.com/mwaskom/nipype_concepts/master/workflows.ipynb)
+- [Iteration](http://nbviewer.ipython.org/urls/raw.github.com/mwaskom/nipype_concepts/master/iteration.ipynb
 
 Requirements
 ------------
